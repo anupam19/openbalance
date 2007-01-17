@@ -1,5 +1,9 @@
 #summary Initial milestone to determine direction.
 
+== Project ==
+
+  * Determine SVN Organization/Layout/Tagging etc.
+
 == Web UI ==
 
   * Determine Technologies
@@ -16,6 +20,10 @@
   * Determine Technologies
 
 = Status =
+
+== Project ==
+
+   * SVN Decisions:
 
 == Web UI ==
 
