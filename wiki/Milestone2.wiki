@@ -34,4 +34,4 @@
 
   * Technologies determined:
 
-| [Milestone1] | [Milestone2] |
+| [Milestone1] | [Milestone3] |
