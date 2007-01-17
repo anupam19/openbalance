@@ -4,43 +4,8 @@
 
   * Determine SVN Organization/Layout/Tagging etc.
 
-== Web UI ==
-
-  * Determine Technologies
-    * Web Server
-    * Database
-    * Other Tools
-
-== HTTP Balancer ==
-
-  * Determine Technologies
-
-== TCP/UDP Balancer ==
-
-  * Determine Technologies
-
 = Status =
 
 == Project ==
 
    * SVN Decisions:
-
-== Web UI ==
-
-   * Technologies determined
-      * Web Server:  Apache 2.0
-      * Database:  MySQL
-      * Other Tools:
-        * PHP 5
-        * DOJO
-        * PEAR
-        * OSWD template http://www.oswd.org/design/preview/id/1570
-        * silk icon set http://www.famfamfam.com/lab/icons/silk/
-
-== HTTP Balancer ==
-
-  * Technologies determined:
-
-== TCP/UDP Balancer ==
-
-  * Technologies determined:
