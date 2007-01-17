@@ -1,0 +1,27 @@
+#Fast and easy to use web based ui for configuring the balancer.
+
+== Access ==
+
+   * Access:  Https over some alternative port?
+   * Authentication:
+      * Local users
+      * Remote options
+         * LDAP auth
+         * Radius auth
+
+== Sections ==
+
+=== System ===
+
+   * User admin
+   * Network admin
+
+=== Rules ===
+
+   * Not sure...  some general area to set up different kinds of rules for content switching, acl's, etc...
+
+=== Load Balancing ===
+
+   * Servers
+   * Services
+   * Virutal Servers
