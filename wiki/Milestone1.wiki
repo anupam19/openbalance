@@ -1,5 +1,3 @@
-= Milestone 1 =
-
 == Web UI ==
 
   * Determine Technologies
@@ -14,3 +12,20 @@
 == TCP/UDP Balancer ==
 
   * Determine Technologies
+
+= Status =
+
+== Web UI ==
+
+   * Technologies determined
+      * Web Server:
+      * Database:
+      * Other Tools:
+
+== HTTP Balancer ==
+
+  * Technologies determined:
+
+== TCP/UDP Balancer ==
+
+  * Technologies determined:
