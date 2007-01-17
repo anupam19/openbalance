@@ -18,9 +18,14 @@
 == Web UI ==
 
    * Technologies determined
-      * Web Server:
-      * Database:
+      * Web Server:  Apache 2.0
+      * Database:  MySQL
       * Other Tools:
+        * PHP 5
+        * DOJO
+        * PEAR
+        * OSWD template http://www.oswd.org/design/preview/id/1570
+        * silk icon set http://www.famfamfam.com/lab/icons/silk/
 
 == HTTP Balancer ==
 
