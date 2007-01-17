@@ -1,6 +1,6 @@
-#Fast and easy to use web based ui for configuring the balancer.
+#summary Fast and easy to use web based ui for configuring the balancer.
 
-== Access ==
+== _Access_ ==
 
    * Access:  Https over some alternative port?
    * Authentication:
@@ -9,7 +9,7 @@
          * LDAP auth
          * Radius auth
 
-== Sections ==
+== _Sections_ ==
 
 === System ===
 
