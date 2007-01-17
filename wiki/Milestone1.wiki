@@ -1,11 +1,32 @@
 #summary Initial milestone to determine direction.
 
-== Project ==
+== Project Maintenance ==
 
   * Determine SVN Organization/Layout/Tagging etc.
 
+== Features ==
+
+  * Configuration/Control
+    * WebUI Fast and easy to use web based ui
+    * CliUI Easy to use cli ui
+  * Reporting/Monitoring
+    * WebReports Web based reports
+    * WebMonitor Web based monitor
+  * Balancing
+    * HttpBalancer Balancer for web requests
+    * OtherBalancer Balancer for other tcp/udp requests
+  * Backend
+    * ConfGenerator Backend script to generate the appropriate configs for the Balancers
+  * Distribution
+    * StandAloneApp The app as a single install on to any linux install
+    * LinuxDistro The app pre-installed in a one cd distro
+
 = Status =
 
-== Project ==
+== Project Maintenance ==
 
-   * SVN Decisions:
+  * SVN Decisions:
+
+== Features ==
+
+  * Long term goals determined in individual wiki pages.
