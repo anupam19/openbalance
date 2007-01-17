@@ -7,8 +7,8 @@
 == Features ==
 
   * Configuration/Control
-    * WebUI Fast and easy to use web based ui
-    * CliUI Easy to use cli ui
+    * WebUi Fast and easy to use web based ui
+    * CliUi Easy to use cli ui
   * Reporting/Monitoring
     * WebReports Web based reports
     * WebMonitor Web based monitor
