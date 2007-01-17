@@ -1,6 +1,6 @@
 #summary Fast and easy to use web based ui for configuring the balancer.
 
-== _Access_ ==
+== Access ==
 
    * Access:  Https over some alternative port?
    * Authentication:
@@ -9,18 +9,18 @@
          * LDAP auth
          * Radius auth
 
-== _Sections_ ==
+== Sections ==
 
-=== System ===
+==== System ====
 
    * User admin
    * Network admin
 
-=== Rules ===
+==== Rules ====
 
    * Not sure...  some general area to set up different kinds of rules for content switching, acl's, etc...
 
-=== Load Balancing ===
+==== Load Balancing ====
 
    * Servers
    * Services
