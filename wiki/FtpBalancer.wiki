@@ -10,3 +10,5 @@ Provide an FTP proxy that provides a means to design an ftp infrastructure that 
     * Hostname
     * source ip, target ip, netmask, etc
     * Username
+  * Provide authentication service
+  * Integrate with other authentication services: LDAP, Active Directory, etc.
