@@ -1,0 +1,13 @@
+#summary Base Load balancer for network protocols
+
+= PUROPSE =
+
+Base features of the network balancer.
+
+== Load Balancing Methods ==
+
+  * Round-Robin
+  * Weighted Round-Robin
+  * Random-Robin
+  * Least Connections
+  * Least I/O
