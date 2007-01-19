@@ -1,4 +1,8 @@
-#summary Fast and easy to use web based ui for configuring the balancer.
+﻿#summary Fast and easy to use web based ui for configuring the balancer.
+
+= PUROPSE =
+
+The WebUi will be used to configure every part of the load balancer.  It should be fast and easy to use.
 
 == Access ==
 
