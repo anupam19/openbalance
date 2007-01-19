@@ -1,5 +1,9 @@
 #summary Initial milestone to determine direction.
 
+= PURPOSE =
+
+The goal of this milestone is to agree on the feature set of openbalance before we begin.  This way we can better avoid making decisions early on that may greatly hinder a core feature we wish to implement.
+
 == Project Maintenance ==
 
   * Determine SVN Organization/Layout/Tagging etc.
