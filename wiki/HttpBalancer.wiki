@@ -16,4 +16,5 @@ HTTP and HTTPS load balancer features.
   * URL Rewriting
   * Custom Headers
   * Compression
-  * Apache Module Plug In Support
+  * Module Plug In Support
+  * Customizable HTTP Logging Format
