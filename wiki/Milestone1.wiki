@@ -17,8 +17,9 @@ The goal of this milestone is to agree on the feature set of openbalance before 
     * WebReports Web based reports
     * WebMonitor Web based monitor
   * Balancing
-    * HttpBalancer Balancer for web requests
-    * OtherBalancer Balancer for other tcp/udp requests
+  	* NetworkBalancer General features of the balancer
+      * HttpBalancer Balancer for web requests
+      * OtherBalancer Balancer for other tcp/udp requests
   * Backend
     * ConfGenerator Backend script to generate the appropriate configs for the Balancers
   * Distribution
