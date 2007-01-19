@@ -1,4 +1,4 @@
-#summary Initial milestone to determine direction.
+﻿#summary Initial milestone to determine direction.
 
 = PURPOSE =
 
@@ -24,6 +24,7 @@ The goal of this milestone is to agree on the feature set of openbalance before 
   * Distribution
     * StandAloneApp The app as a single install on to any linux install
     * LinuxDistro The app pre-installed in a one cd distro
+  * HighAvailability
 
 = Status =
 
