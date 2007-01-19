@@ -2,19 +2,39 @@
 
 == Access ==
 
-   * Access:  Https over some alternative port?
-   * Authentication:
-      * Local users
-      * Remote options
-         * LDAP auth
-         * Radius auth
+  * Access:  Https over a configurable port
+  * Authentication:
+    * Local users
+    * Remote options
+      * LDAP auth
+      * Radius auth
 
-== Sections ==
+== Design ==
+
+  * Simple and fast interface
+  * Support for language translations
+  * "Web 2.0"
+    * DOJO ftw
+  * Develop for Firefox?  Or shall we shoot for Firefox/Opera/IE?
+
+== UI Sections ==
 
 ==== System ====
 
    * User admin
+      * Add, edit, delete, enable/disable users
+      * Privilege levels
+         * Admin rights
+         * Read only rights
+         * Reports viewing
    * Network admin
+      * Configure interfaces
+      * Add, edit, delete custom routes
+      * DNS Settings
+      * VPN Client configuration?
+         * OpenVPN Configuration?
+         * PPTP Configuration?
+         * FreeSWAN/OpenSWAN/StrongSWAN Configuration?
 
 ==== Rules ====
 
