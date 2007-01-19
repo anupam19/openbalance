@@ -1,0 +1,6 @@
+#summary Organization of Wiki
+
+= Milestones =
+
+  * [Milestone1]
+  * [Milestone2]
