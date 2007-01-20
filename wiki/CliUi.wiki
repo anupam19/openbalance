@@ -28,10 +28,9 @@ The CliUi will be used to configure every part of the load balancer.  It should 
       * Configure interfaces
       * Add, edit, delete custom routes
       * DNS Settings
-      * VPN Client configuration?
-         * OpenVPN Configuration?
-         * PPTP Configuration?
-         * FreeSWAN/OpenSWAN/StrongSWAN Configuration?
+   * Server monitoring options
+      * BB
+      * Nagios
 
 ==== Rules ====
 
