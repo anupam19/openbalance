@@ -19,7 +19,7 @@ The WebUi will be used to configure every part of the load balancer.  It should 
   * Support for language translations
   * "Web 2.0"
     * DOJO ftw
-  * Develop for Firefox?  Or shall we shoot for Firefox/Opera/IE?
+  * Develop for Firefox
 
 == UI Sections ==
 
